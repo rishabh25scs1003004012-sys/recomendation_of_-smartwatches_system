@@ -1,1 +1,1 @@
-# ai-projects-iilm
+# recomendation of smartwatches system
